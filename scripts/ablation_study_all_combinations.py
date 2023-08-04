@@ -207,7 +207,7 @@ def main():
     # Fixed feature
     fixed_feature = ['dynamic_context_next']
     
-    features = []
+    features = ['']
 
     #features = ['cited_concepts']
 
